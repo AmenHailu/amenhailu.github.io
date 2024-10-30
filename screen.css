@@ -239,7 +239,7 @@ table {
   transition: margin-left 0.5s ease, box-shadow 0.5s ease;
   background-color: #f5f6f7;
   font-size: 0.9em;
-  position: relative;
+  position: static;
   width: 20em; }
 #sidebar > .inner {
     padding: 2.22222em 2.22222em 2.44444em 2.22222em ;
