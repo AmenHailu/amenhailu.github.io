@@ -193,6 +193,7 @@ table {
   table thead {
     border-bottom: solid 2px rgba(210, 215, 217, 0.75); }
 
+
 /* Brief Recipe Posts */
 .posts {
   display: flex;
@@ -254,6 +255,7 @@ table {
         border-bottom: 0;
         margin-bottom: 0;
         padding-bottom: 0; }
+
 
 /* Menu */
 #menu h2 {
